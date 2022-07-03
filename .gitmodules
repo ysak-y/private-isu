@@ -1,0 +1,3 @@
+[submodule "webapp/rust"]
+	path = webapp/rust
+	url = https://github.com/ysak-y/private-isu-rust
